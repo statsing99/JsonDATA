@@ -6,5 +6,37 @@
       "answer3":"Патрулката",
       "answer4":"Бмв-то",
       "correctAnswer":"Патрулката"
+   },
+   {
+      "question":"Какво е пушил Уинстън Чърчил?",
+      "answer1":"Пури",
+      "answer2":"Цигари Бяло Боро",
+      "answer3":"Билки",
+      "answer4":"Марийка",
+      "correctAnswer":"Пури"
+   },
+   {
+      "question":"През коя година е родена певицата Данна?",
+      "answer1":"2001",
+      "answer2":"2002",
+      "answer3":"2003",
+      "answer4":"2004",
+      "correctAnswer":"2004"
+   },
+   {
+      "question":"Коя от изброените марки коли е на задно предаване до 2003г.",
+      "answer1":"Шкода",
+      "answer2":"Рено",
+      "answer3":"Лада",
+      "answer4":"Пежо",
+      "correctAnswer":"Лада"
+   },
+   {
+      "question":"Инстинското име на Fyre е?",
+      "answer1":"Сафет",
+      "answer2":"Огнян",
+      "answer3":"Киро",
+      "answer4":"Младен",
+      "correctAnswer":"Огнян"
    }
    ]
